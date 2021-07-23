@@ -1,7 +1,7 @@
 # PyBer Ride Sharing Analysis
 
 ## Overview of the analysis: 
-- The purpose of the analysis is to provide a holistic understanding of the relationships between drivers, riders, and fares within rural, suburban, and urban areas at Pyber. The analysis and data visualizations in turn will help stakeholders improve affordability and access to ride-sharing services.
+The purpose of the analysis is to provide a holistic understanding of the relationships between drivers, riders, and fares within rural, suburban, and urban areas at Pyber. The analysis and data visualizations in turn will help stakeholders improve affordability and access to ride-sharing services.
 
 ## Results: 
 
@@ -39,7 +39,9 @@
 </p>
 
 ## Summary: 
-- Based on the results, here are three business recommendations for addressing any disparities among the city types.
-1) **Increase driver count in suburban and rural cities.** Adjust driver supply in order to match demand within each city type. Right now there are too many drivers servicing the urban cities. For example, urban cities only comprise 68.4% of total rides, but have roughly 86.7% of the total drivers working in those areas. Increasing the driver account in the suburbs and rural areas  would not only make ride-sharing more affordable for those areas, but also potentially increase the take home revenue for those drivers.
-2) **Adjust driver count supply for each season.** Another area of opportunity could be optimizing driver supply to match demand for each city over the course of the year. Although ride demand within each city type is relatively consistent over the year (Figure 3), the demand does still oscillate to some degree. Adjusting driver supply can further improve affordability. 
+Based on the results, here are three business recommendations for addressing any disparities among the city types.
+1) **Increase amount of drivers in suburban and rural cities.** Right now there are too many drivers servicing the urban cities. For example, urban cities only comprise 68.4% of total rides, but have roughly 86.7% of the total drivers working in those areas. Increasing the driver supply in the suburbs and rural areas would not only make ride-sharing more affordable for those areas, but also potentially increase the take home revenue for those drivers.
+<br />
+2) **Optimize driver supply based on seasonal demand.** Another area of opportunity could be optimizing driver supply to match demand for each city over the course of the year. Although ride demand within each city type is relatively consistent over the year (Figure 3), the demand does still oscillate to some degree. Adjusting driver supply can further improve affordability. 
+<br />
 3) 
