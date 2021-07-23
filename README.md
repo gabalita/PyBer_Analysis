@@ -5,7 +5,7 @@
 
 ## Results: 
 
-**Figure 1.** Urban cities have a much larger supploy of drivers and a higher demand for rides compared to suburban and rural cities. As a result, the average fare per ride and average fare per driver is significantly lower in urban areas. 
+**Figure 1.** Urban cities have a much larger supply of drivers and a higher demand for rides compared to suburban and rural cities. As a result, the average fare per ride and average fare per driver is significantly lower in urban areas. 
 <p align="center">
 <img width="600" alt="Screen Shot 2021-07-23 at 4 13 30 PM" src="https://user-images.githubusercontent.com/10199828/126836372-dbacf901-84ed-46f9-a18a-24259bf07c6e.png">
 </p>
@@ -20,8 +20,6 @@
 
 ![Fig8](https://user-images.githubusercontent.com/10199828/126834040-ffde2a19-1024-47c9-aa42-b11fad9cfaff.png)
 
-- Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-- There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 <br />
 
 **Figures 4-6.** The following figures demonstrate that not only do Urban cities collect the most fares and experience the most rides, but also they have a higher proportion of drivers relative to their ride demand. 
@@ -33,8 +31,15 @@
 </p>
 <br />
 
-
+**Figures 7-9.** The following figures demonstrate the distribution of values for fares, driver count, and total number of rides for each city type. 
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/10199828/126843587-414ac582-bb93-4af4-8d0a-dda69ee6194d.png" />
+  <img src = https://user-images.githubusercontent.com/10199828/126843591-9ccf2b99-f4e9-49cf-90c3-1d8f18256686.png />
+  <img src = https://user-images.githubusercontent.com/10199828/126843598-3c393acc-0047-4819-84d1-0d85a7d6c3c1.png />
+</p>
 
 ## Summary: 
-- Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-- There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+- Based on the results, here are three business recommendations for addressing any disparities among the city types.
+1) **Increase driver count in suburban and rural cities.** Adjust driver supply in order to match demand within each city type. Right now there are too many drivers servicing the urban cities. For example, urban cities only comprise 68.4% of total rides, but have roughly 86.7% of the total drivers working in those areas. Increasing the driver account in the suburbs and rural areas  would not only make ride-sharing more affordable for those areas, but also potentially increase the take home revenue for those drivers.
+2) **Adjust driver count supply for each season.** Another area of opportunity could be optimizing driver supply to match demand for each city over the course of the year. Although ride demand within each city type is relatively consistent over the year (Figure 3), the demand does still oscillate to some degree. Adjusting driver supply can further improve affordability. 
+3) 
